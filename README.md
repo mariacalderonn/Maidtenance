@@ -3,4 +3,4 @@ Below you will find the Product Development Lifecycle.
 
 **Table of Contents**
 
-Product 
+  Ideation 
